@@ -1,4 +1,4 @@
-# BreastCancerDetection using Machine Learning Model and web deployment 
+# BreastCancerDetection using Machine Learning Model and application deployment 
 
 Background
 
