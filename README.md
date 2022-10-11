@@ -8,5 +8,8 @@ Importance of the Analysis
 
 Breast cancer is the second leading cause of cancer death in women.**The chance that a woman will die from breast cancer is about 1 in 39**. The map below shows the impact of breast cancer gloablly.
 
-![image](https://user-images.githubusercontent.com/22096938/194973453-e0764263-09f7-446f-9573-5c9fb9aa39bf.png)
+Prediction based on the model built in the project
+
+![image](https://user-images.githubusercontent.com/22096938/194973996-21217986-33e3-4d58-bfd1-f6c8fd6032ff.png)
+
 
